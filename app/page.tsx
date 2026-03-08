@@ -25,7 +25,7 @@ export default function Home() {
             EL
           </div>
           <div>
-            <div className="text-sm font-semibold text-gray-900">Evgeni Levitin</div>
+            <div className="text-sm font-semibold text-gray-900">Eugene Levitin</div>
             <div className="text-xs text-gray-400">CEO</div>
           </div>
         </div>
